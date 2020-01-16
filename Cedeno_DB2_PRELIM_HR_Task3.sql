@@ -1,0 +1,1 @@
+SELECT  concat(last_name,' ',first_name) as FullName FROM  "cedeno_hr".employees WHERE salary<6000;

@@ -1,0 +1,1 @@
+SELECT employee_id, first_name, last_name FROM  "cedeno_hr".employees;

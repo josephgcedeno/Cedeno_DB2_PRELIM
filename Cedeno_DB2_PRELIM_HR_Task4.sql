@@ -1,0 +1,1 @@
+SELECT first_name,last_name, department_id FROM "cedeno_hr".employees WHERE last_name ='McEwen';

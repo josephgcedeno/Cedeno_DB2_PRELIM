@@ -1,0 +1,1 @@
+SELECT job_title, (max_salary-min_salary) AS difference FROM "cedeno_hr".jobs WHERE min_salary>1200 AND max_salary<18000;
